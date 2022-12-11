@@ -5,7 +5,7 @@ automating the creation of custom spreadsheet templates with perl and Excel::Wri
 
 * This is not a project, but a collection of perl scripts I use to generate excel templates I use at work and/or my personal time. 
 * The included script(s) are rather verbose so that future me can still understand what's happening.
-* This repository rests on the shoulders of the `Excel::Writer::XLSX` module
+* This repository rests on the shoulders of the [Excel::Writer::XLSX](https://metacpan.org/pod/Excel::Writer::XLSX) module
 
 ### usage
 
